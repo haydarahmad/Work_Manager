@@ -4,6 +4,8 @@ WorkManager Codelab
 This repository contains the code for the
 [WorkManager Codelab](https://codelabs.developers.google.com/codelabs/android-workmanager):
 
+I cloning the project from android developer for the purpose of learning work manager
+
 Java version
 --------------
 
